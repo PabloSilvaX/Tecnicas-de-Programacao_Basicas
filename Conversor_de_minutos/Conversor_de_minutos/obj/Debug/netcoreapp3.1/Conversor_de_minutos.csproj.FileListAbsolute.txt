@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\bin\Debug\netcoreapp3.1\Conversor_de_minutos.exe
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\bin\Debug\netcoreapp3.1\Conversor_de_minutos.deps.json
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\bin\Debug\netcoreapp3.1\Conversor_de_minutos.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\bin\Debug\netcoreapp3.1\Conversor_de_minutos.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\bin\Debug\netcoreapp3.1\Conversor_de_minutos.dll
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\bin\Debug\netcoreapp3.1\Conversor_de_minutos.pdb
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\obj\Debug\netcoreapp3.1\Conversor_de_minutos.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\obj\Debug\netcoreapp3.1\Conversor_de_minutos.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\obj\Debug\netcoreapp3.1\Conversor_de_minutos.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\obj\Debug\netcoreapp3.1\Conversor_de_minutos.dll
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\obj\Debug\netcoreapp3.1\Conversor_de_minutos.pdb
+C:\Users\T-Gamer\source\repos\Conversor_de_minutos\Conversor_de_minutos\obj\Debug\netcoreapp3.1\Conversor_de_minutos.genruntimeconfig.cache

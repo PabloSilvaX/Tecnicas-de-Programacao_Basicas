@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conversor_de_minutos/1.0.0": {
+        "runtime": {
+          "Conversor_de_minutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversor_de_minutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

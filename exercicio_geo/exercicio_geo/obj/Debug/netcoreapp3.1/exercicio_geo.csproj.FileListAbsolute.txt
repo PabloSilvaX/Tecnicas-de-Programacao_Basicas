@@ -1,0 +1,12 @@
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\bin\Debug\netcoreapp3.1\exercicio_geo.exe
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\bin\Debug\netcoreapp3.1\exercicio_geo.deps.json
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\bin\Debug\netcoreapp3.1\exercicio_geo.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\bin\Debug\netcoreapp3.1\exercicio_geo.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\bin\Debug\netcoreapp3.1\exercicio_geo.dll
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\bin\Debug\netcoreapp3.1\exercicio_geo.pdb
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\obj\Debug\netcoreapp3.1\exercicio_geo.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\obj\Debug\netcoreapp3.1\exercicio_geo.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\obj\Debug\netcoreapp3.1\exercicio_geo.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\obj\Debug\netcoreapp3.1\exercicio_geo.dll
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\obj\Debug\netcoreapp3.1\exercicio_geo.pdb
+C:\Users\T-Gamer\source\repos\exercicio_geo\exercicio_geo\obj\Debug\netcoreapp3.1\exercicio_geo.genruntimeconfig.cache
