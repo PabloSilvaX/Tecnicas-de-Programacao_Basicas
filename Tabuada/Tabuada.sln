@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuada", "Tabuada\Tabuada.csproj", "{AEE01837-A727-44C2-BF51-A710786C74F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE01837-A727-44C2-BF51-A710786C74F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE01837-A727-44C2-BF51-A710786C74F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE01837-A727-44C2-BF51-A710786C74F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE01837-A727-44C2-BF51-A710786C74F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4C5D4C-9F12-456D-9560-8131856132E0}
+	EndGlobalSection
+EndGlobal

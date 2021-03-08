@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\bin\Debug\netcoreapp3.1\par_ou_impar.exe
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\bin\Debug\netcoreapp3.1\par_ou_impar.deps.json
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\bin\Debug\netcoreapp3.1\par_ou_impar.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\bin\Debug\netcoreapp3.1\par_ou_impar.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\bin\Debug\netcoreapp3.1\par_ou_impar.dll
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\bin\Debug\netcoreapp3.1\par_ou_impar.pdb
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.dll
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.pdb
+C:\Users\T-Gamer\source\repos\par_ou_impar\par_ou_impar\obj\Debug\netcoreapp3.1\par_ou_impar.genruntimeconfig.cache

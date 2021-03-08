@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\bin\Debug\netcoreapp3.1\Uri_diferença.exe
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\bin\Debug\netcoreapp3.1\Uri_diferença.deps.json
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\bin\Debug\netcoreapp3.1\Uri_diferença.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\bin\Debug\netcoreapp3.1\Uri_diferença.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\bin\Debug\netcoreapp3.1\Uri_diferença.dll
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\bin\Debug\netcoreapp3.1\Uri_diferença.pdb
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.dll
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.pdb
+C:\Users\T-Gamer\source\repos\Uri_diferença\Uri_diferença\obj\Debug\netcoreapp3.1\Uri_diferença.genruntimeconfig.cache

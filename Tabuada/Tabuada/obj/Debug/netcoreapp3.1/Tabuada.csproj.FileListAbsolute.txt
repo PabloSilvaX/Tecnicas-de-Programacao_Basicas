@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+C:\Users\T-Gamer\source\repos\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache

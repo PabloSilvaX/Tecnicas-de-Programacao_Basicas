@@ -1,0 +1,13 @@
+C:\Users\T-Gamer\source\repos\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.exe
+C:\Users\T-Gamer\source\repos\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.deps.json
+C:\Users\T-Gamer\source\repos\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.dll
+C:\Users\T-Gamer\source\repos\Media2\Media2\bin\Debug\netcoreapp3.1\Media2.pdb
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.dll
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.pdb
+C:\Users\T-Gamer\source\repos\Media2\Media2\obj\Debug\netcoreapp3.1\Media2.genruntimeconfig.cache
